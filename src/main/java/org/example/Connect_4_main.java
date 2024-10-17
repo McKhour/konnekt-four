@@ -20,7 +20,7 @@ public class Connect_4_main
                 mezo[sor][oszlop] = ' ';
             }
         }
-
+        //ha nem fog működni, én felakasztok valakit, meg magamat
         int kor = 1;
         char jatekos = 'S';
         boolean nyertes = false;
